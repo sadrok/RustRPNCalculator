@@ -2,8 +2,8 @@
 
 use std::io::{stdout, Write};
 
-// Define base numeric value as f32
-type Number = f32;
+// Define base numeric value as f64
+type Number = f64;
 
 // STRUCTS/ENUMS
 
